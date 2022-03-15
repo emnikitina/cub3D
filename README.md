@@ -4,3 +4,5 @@ There are some examples of screenshote below.
 https://github.com/emnikitina/cub3D/raw/master/cub3D_1.bmp
 
 https://github.com/emnikitina/cub3D/raw/master/cub3D_2.bmp
+
+![alt text]https://github.com/emnikitina/cub3D/blob/main/cub3D_1.bmp
